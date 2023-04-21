@@ -1,3 +1,3 @@
 ### Всем привет! 👋
 
-https://www.codewars.com/users/VANGAZOR/badges/large
+![image](https://www.codewars.com/users/VANGAZOR/badges/large)
