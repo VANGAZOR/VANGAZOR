@@ -33,9 +33,6 @@
 
 ### Статистика
 
-<a  href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="120"  src="https://github-readme-stats.vercel.app/api?username=vangazor&show_icons=true&theme=prussian&hide=contribs" />
-</a>      
 <a  href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="120"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vangazor&layout=compact&theme=prussian" />
 </a>
