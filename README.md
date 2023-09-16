@@ -13,7 +13,6 @@
 
 ### Мой стек
 
-HTML, CSS, JS, TS, SASS, TAILWIND, REACT, REDUX, RTK QUERY, NEXTJS, NODEJS, EXPRESS, NESTJS
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
